@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Refactored module structure for clarity
 - Updated license year
+
+## 2026-05-06
+- Checked for memory leaks in long-running path
+- Improved log message formatting
+- Reorganised test fixtures
